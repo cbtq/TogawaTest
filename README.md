@@ -1,6 +1,8 @@
 ### Togawa Test
 ### 丰川测试
 
+**测试题库 / Test Questions → [Questions.md](./Questions.md)**
+
 获取资源 - 复制提示词 - 等待AI执行完毕 - 祝玩得开心！
 Get resources – Copy the prompt – Wait for the AI ​​to finish – Have fun!
 
